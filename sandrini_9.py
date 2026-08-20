@@ -1,0 +1,6 @@
+print("------- Menu -------")
+print("| (A) Inserir contato")
+print("| (B) Remover contato")
+print("| (C) Buscar contato")
+print("| (D) Sair")
+print("--------------------")
